@@ -4,3 +4,4 @@
 // Van onder naar boven typen zodat de meest recente dingen boven staan.
 
 Thijs snapt github  11-12-14
+Thijs komt er net achter dat dit bestand overbodig is al iedereen het eenmaal snapt.
