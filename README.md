@@ -5,4 +5,4 @@
 
 Thijs snapt github  11-12-14
 Thijs komt er net achter dat dit bestand overbodig is al iedereen het eenmaal snapt.
-Wout en Amar snappen het een heeeeeeeel klein beetje.--
+Wout en Amar snappen het een heeeeeeeel klein beetje.
